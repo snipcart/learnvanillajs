@@ -38,7 +38,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
 
 ## Courses 🎒
-
+- [The Complete JavaScript Course 2021: From Zero to Expert!] (https://www.udemy.com/course/the-complete-javascript-course/) by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) 💰
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) by [Anthony Alicea](https://twitter.com/anthonypalicea) 💰
 - [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/) by [Brad Traversy](https://twitter.com/traversymedia) 💰
 - [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/) by [Kyle Simpson](https://twitter.com/getify) 💰
